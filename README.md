@@ -1,11 +1,11 @@
 # dataScience
 ### Natural Language Processing and Topic Modeling on IMDB Movie Dataset
- Clustered unlabeled movie titles and synopses into groups and discovered latent semantic structures using Python.
- Preprocessed text by tokenizing, stemming and stop words removing using function from NLTK library.
- Extracted features by term frequency-inverse document frequency (TF-IDF) approach.
- Trained unsupervised learning model of K-Means clustering and LDA.
- Identified latent topics and keywords of each document for clustering and calculated document similarity.
- Visualized model training results by dimensionality reduction using Principal Component Analysis.
+ Clustered unlabeled movie titles and synopses into groups and discovered latent semantic structures using Python.\\
+ Preprocessed text by tokenizing, stemming and stop words removing using function from NLTK library.\\
+ Extracted features by term frequency-inverse document frequency (TF-IDF) approach.\\
+ Trained unsupervised learning model of K-Means clustering and LDA.\\
+ Identified latent topics and keywords of each document for clustering and calculated document similarity.\\
+ Visualized model training results by dimensionality reduction using Principal Component Analysis.\\
 ### Stock Prices and Market Index Prediction Using Machine Learning and Deep Learning
  Analyzed the volatility feature of Google stock price and market index.
  Used Moving Average, Linear Regression, KNN Regressor to predict the stock price; Calculated RMSE and
